@@ -222,7 +222,7 @@ Each of these challenges has a possible workaround. For missing data, the system
 
 ## Impact and Benefits
 
-<h1>Potential Impact on the Target Audience</h1>h1>
+<h1>Potential Impact on the Target Audience</h1>
 
 This solution can make a big difference for small and marginal farmers. Instead of depending on guesswork or local shopkeepers, they’ll get advice that is reliable, timely, and in their own language. It helps them make smarter choices about crops, fertilizers, and pest control, which means better yields and lower costs. Over time, it builds their confidence and reduces the stress of farming.
 
